@@ -40,19 +40,11 @@ Note: the weather card needs an internet connection because it fetches live data
 
 ```text
 202253340-HussainAlbaggal-assignment4/
-├── .gitignore
-├── assets/
-│   └── images/
-│       └── .gitkeep
-├── index.html
 ├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
 ├── docs/
-│   ├── ai-usage-report.md
-│   └── technical-documentation.md
-└── README.md
+├── js/
+├── README.md
+└── index.html
 ```
 
 ## Short AI Use Summary
